@@ -1,5 +1,7 @@
 ![Header](./assets/docs/header.png)
+
 DeeSyn-utils is an open-source toolkit developed by DeeSyn that helps you build bots more easily with a collection of useful utility functions.
+
 ---
 
 ## Requirements
@@ -15,6 +17,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/NotKenftr/Deesyn-utils.git
 cd LightModal
+```
+
+Install using pip:
+```bash
+pip install -e .
+```
+Or, if you are using uv:
+```bash
+uv pip install -e .
 ```
 # LICENSE
 MIT License
