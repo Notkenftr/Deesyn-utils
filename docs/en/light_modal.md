@@ -45,7 +45,7 @@ Before jumping into usage examples, check out the parameters accepted by the met
 ## 1. Basic Example
 
 ```python
-from deesyn_utils import LightModal
+from deesyn import LightModal
 import discord
 
 @bot.tree.command(name="example", description="LightModal sample example")

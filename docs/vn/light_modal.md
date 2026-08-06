@@ -41,7 +41,7 @@ trước khi đọc cách sử dụng, bạn nên coi qua tham số của các m
 ## 1. Ví dụ cơ bản
 
 ```python 
-from deesyn_utils import LightModal
+from deesyn import LightModal
 import discord
 
 @bot.tree.command(name="example", description="Ví dụ mẫu về lightmodal")
