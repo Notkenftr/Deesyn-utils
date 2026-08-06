@@ -1,4 +1,3 @@
-```markdown
 ![Header](./assets/docs/header.png)
 
 DeeSyn-utils is an open-source toolkit developed by DeeSyn that helps you build bots more easily with a collection of useful utility functions.
