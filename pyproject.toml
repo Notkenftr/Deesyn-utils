@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=70","wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lightmodal"
+version = "0.1.0"
+description = "Supports the quick creation of Discord modals."
+authors = [
+    {name = "kenftr"}
+]
+requires-python = ">=3.8"
+dependencies = ["discord-py","asyncio"]
+
+[tool.setuptools.packages.find]
+where = ["lightmodal"]
+
+[tool.setuptools]
+package-dir = {"" = "lightmodal"}
