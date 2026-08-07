@@ -15,14 +15,14 @@ DeeSyn-utils is an open-source toolkit developed by DeeSyn that helps you build 
 ## 📑 Install Using pip
 
 ```bash
-pip install git+[https://github.com/NotKenftr/Deesyn-utils.git@release](https://github.com/NotKenftr/Deesyn-utils.git@release)
+pip install git+https://github.com/NotKenftr/Deesyn-utils.git@release
 
 ```
 
 Or, if you are using uv:
 
 ```bash
-uv pip install git+[https://github.com/NotKenftr/Deesyn-utils.git@release](https://github.com/NotKenftr/Deesyn-utils.git@release)
+uv pip install git+https://github.com/NotKenftr/Deesyn-utils.git@release
 
 ```
 
@@ -31,7 +31,7 @@ uv pip install git+[https://github.com/NotKenftr/Deesyn-utils.git@release](https
 Clone the repository:
 
 ```bash
-git clone -b release [https://github.com/NotKenftr/Deesyn-utils.git](https://github.com/NotKenftr/Deesyn-utils.git)
+git clone -b release https://github.com/NotKenftr/Deesyn-utils.git
 cd Deesyn-utils
 
 ```
