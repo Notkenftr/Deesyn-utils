@@ -31,7 +31,7 @@ uv pip install git+https://github.com/NotKenftr/Deesyn-utils.git@release
 Clone the repository:
 
 ```bash
-git clone -b release [https://github.com/NotKenftr/Deesyn-utils.git](https://github.com/NotKenftr/Deesyn-utils.git)
+git clone -b release https://github.com/NotKenftr/Deesyn-utils.git
 cd Deesyn-utils
 
 ```
